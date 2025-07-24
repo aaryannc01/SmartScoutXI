@@ -11,7 +11,7 @@
   - Defensive
   - Possession
   - Counter
-  - Balanced (average of all styles)
+  - Balanced
 - Filters by:
   - Position (F, M, D, G)
   - Role (ST, Winger, CM, AM, DM, CB, FB, GK)
